@@ -1,0 +1,116 @@
+{
+  "cpu_act": {
+    "n_num_features": 21,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "usr"
+  },
+  "pol": {
+    "n_num_features": 26,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "foo"
+  },
+  "elevators": {
+    "n_num_features": 16,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "Goal"
+  },
+  "wine_quality": {
+    "n_num_features": 11,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "quality"
+  },
+  "Ailerons": {
+    "n_num_features": 33,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "goal"
+  },
+  "houses": {
+    "n_num_features": 8,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "medianhousevalue"
+  },
+  "house_16H": {
+    "n_num_features": 16,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "price"
+  },
+  "diamonds": {
+    "n_num_features": 6,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "price"
+  },
+  "Brazilian_houses": {
+    "n_num_features": 8,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "totalBRL"
+  },
+  "Bike_Sharing_Demand": {
+    "n_num_features": 5,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "count"
+  },
+  "nyc-taxi-green-dec-2016": {
+    "n_num_features": 9,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "tipamount"
+  },
+  "house_sales": {
+    "n_num_features": 15,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "price"
+  },
+  "sulfur": {
+    "n_num_features": 6,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "y1"
+  },
+  "medical_charges": {
+    "n_num_features": 3,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "AverageTotalPayments"
+  },
+  "MiamiHousing2016": {
+    "n_num_features": 13,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "SALEPRC"
+  },
+  "superconduct": {
+    "n_num_features": 79,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "criticaltemp"
+  },
+  "yprop_4_1": {
+    "n_num_features": 42,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "oz252"
+  },
+  "abalone": {
+    "n_num_features": 7,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "Classnumberofrings"
+  },
+  "delays_zurich_transport": {
+    "n_num_features": 8,
+    "cat_cols": [],
+    "cat_cards": [],
+    "target": "delay"
+  }
+}
