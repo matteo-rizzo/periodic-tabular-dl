@@ -220,5 +220,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## References
 
-- **Our Paper:** *Leveraging Periodicity for Tabular Deep Learning* (Add link when available)
+- **Our Paper:** Rizzo, M., Ayyurek, E., Albarelli, A., & Gasparetto, A. (2025). _Leveraging Periodicity for Tabular Deep Learning_. Electronics, 14(6), 1165. https://doi.org/10.3390/electronics14061165
 - **Benchmark Paper:** Prokhorenkova, L., & Gusev, G. (2019). *Why do tree-based models still outperform deep learning on typical tabular data?* arXiv preprint arXiv:1906.01784.
